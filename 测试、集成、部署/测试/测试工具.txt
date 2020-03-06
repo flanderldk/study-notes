@@ -1,0 +1,12 @@
+1.cobertura， 测试代码的覆盖率
+2.SonarQube， 管理代码质量一个开放平台
+
+
+
+测试交付平台
+devops
+
+
+
+
+Gerrit+Jenkins+Sonar
